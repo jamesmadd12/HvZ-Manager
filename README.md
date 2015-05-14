@@ -3,6 +3,7 @@
 ===============
 
 User Types:
+	
 	Human
 	Zombie
 		Users in the Game
@@ -23,19 +24,18 @@ User Types:
 
 
 Authentification:
+	
 	Login
 		Unique Username
 		8+ Char Password
 		Persistant (Especially Mobile)
-
-	GET
-		Unchecked, its whatever
 	
-	PUT, POST, DELETE
+	GET, PUT, POST, DELETE
 		Some Sort of Authentificaiton (OAuth2?)
 
 
 Product Attributes:
+	
 	User Profile
 		FREE to create
 		Profile Picture
